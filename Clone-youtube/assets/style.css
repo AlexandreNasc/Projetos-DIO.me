@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.photo {
+    width: 32px;
+    height: 32px;
+    border-radius: 30px;
+    margin-left: 20px;
+}
+
+
+.container {   
+    display: flex;
+    align-items: center;
+    flex-flow: row wrap;
+    
+}
+
+.hamburguer {
+    margin: 20px;
+}
+
+.logo2 {
+    margin-right: 10px;
+}
+
+.criador {
+    margin-left: 10px;
+}
+
+.notificação {
+     margin-left: 10px;
+}
